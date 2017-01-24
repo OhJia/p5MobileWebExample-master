@@ -1,8 +1,9 @@
 <h1>p5 Mobile Examples</h1>
 
-View the following examples in your mobile browser.
+View the following examples in your mobile browser:
+https://ohjia.github.io/p5MobileWebExample-master/
 
-## p5 Touch Events (TODO: add links)
+## p5 Touch Events (TODO: add individual links)
 - simpleDraw: 
 - multitouchZoom: 
 
